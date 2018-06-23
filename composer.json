@@ -1,0 +1,8 @@
+{
+    "require": {
+        "twbs/bootstrap": "^4.1",
+        "components/jquery": "^3.3",
+        "components/three.js": "^0.0.79",
+        "components/angular.js": "^1.3"
+    }
+}
